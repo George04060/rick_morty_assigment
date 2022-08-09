@@ -1,0 +1,83 @@
+name: rick_morty_vendora
+description: A Rick and Morty Project
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+  # Api Rest: dio client generator, if something change, run: ` flutter pub run build_runner watch`.
+  retrofit: ^3.0.1+1
+
+  # State Management.
+  flutter_bloc: ^7.0.1
+
+  #Animations.
+  animations: ^2.0.2
+
+  #Utils.
+  auto_size_text: ^3.0.0
+  cached_network_image: ^3.2.0
+  font_awesome_flutter: ^10.1.0
+  url_launcher: ^6.0.18
+
+  #Hydrated
+  #ßhydrated_bloc: ^8.0.0
+
+  pull_to_refresh: ^2.0.0
+
+  #search_bar
+  flappy_search_bar: 1.4.1
+
+  material_floating_search_bar: ^0.3.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+  # Api Rest: dio client generator.
+  retrofit_generator: ^4.0.1
+  build_runner: ^2.1.10
+  json_serializable: ^6.2.0
+
+  # To handle de native splash screen, the icon and name of the app in all the plataforms.
+  flutter_native_splash: ^2.1.6
+  flutter_launcher_icons: ^0.9.2
+  flutter_app_name: ^0.1.0
+
+# Configuration of splash screen, if something change, run: `flutter pub run flutter_native_splash:create`.
+#flutter_native_splash:
+  #background_image: "assets/images/splash_screen.png"
+
+# Configuration of flutter_icons, if something change, run: `flutter pub run flutter_launcher_icons:main`.
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+
+# Configuration of flutter_app_name, if something change, run: `flutter pub run flutter_app_name`.
+flutter_app_name:
+  name: "Rick and Morty"
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: AkayaTelivigala
+      fonts:
+        - asset: assets/fonts/Georgia_Regular_font.ttf
+          weight: 400
+
+  assets:
+    - assets/images/detail_view.jpg
+    - assets/images/image_error.png
+    - assets/icons/app_icon.png
+  

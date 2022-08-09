@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:4:5-19:19
+MERGED from [:url_launcher_android] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-14:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/e77ccadf38a9c2325e7c7b3575070a2b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/e77ccadf38a9c2325e7c7b3575070a2b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/andreeabarda/.gradle/caches/transforms-3/13e698cd57bf8da03a836668361529a5/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/andreeabarda/.gradle/caches/transforms-3/13e698cd57bf8da03a836668361529a5/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/andreeabarda/.gradle/caches/transforms-3/db9daf9acbb1060db2538fc2cfb6a86e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/andreeabarda/.gradle/caches/transforms-3/db9daf9acbb1060db2538fc2cfb6a86e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/andreeabarda/.gradle/caches/transforms-3/13e698cd57bf8da03a836668361529a5/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:1:1-20:12
+MERGED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:1:1-20:12
+MERGED from [:sqflite] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:path_provider_android] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_native_splash] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/0b69cb06025d6c667e3a6956947addb3/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/e77ccadf38a9c2325e7c7b3575070a2b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/andreeabarda/.gradle/caches/transforms-3/a78e5dc4c13bc533c4a5c28b66d806c8/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/6569a7e0b628b18439c8e3db7f98f4fe/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/e344a380465f063d60b751323d3569b4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/4bb6c1a523de75f22056d295d0eafe5a/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/4b838c5c6d7b806adbc33324855961a5/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/andreeabarda/.gradle/caches/transforms-3/13e698cd57bf8da03a836668361529a5/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/andreeabarda/.gradle/caches/transforms-3/86c0c5e844bcce17688ca821466d0d47/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/dee6dbe3c2cee513544eed918fdebf6d/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/77edcf24a22ec870864e8d3f4c68fd8c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/e4a6009bde25d1e7f1e017b4f83a1c70/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/1d148d3a6784fa5a7be38b0c5165fb26/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/3cc978705fda3550b87be5231ae3a049/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/andreeabarda/.gradle/caches/transforms-3/db9daf9acbb1060db2538fc2cfb6a86e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/andreeabarda/.gradle/caches/transforms-3/6d151d4be8f5d78d23acd2864d2034b6/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/andreeabarda/.gradle/caches/transforms-3/60dd8bbb66b6b5afb91bd395238d2ee7/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:1:70-127
+		INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:3:5-66
+MERGED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:3:5-66
+MERGED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:3:5-66
+	android:name
+		ADDED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml:3:22-64
+uses-sdk
+INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml
+MERGED from [:sqflite] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_splash] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_splash] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/0b69cb06025d6c667e3a6956947addb3/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/0b69cb06025d6c667e3a6956947addb3/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/e77ccadf38a9c2325e7c7b3575070a2b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/e77ccadf38a9c2325e7c7b3575070a2b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/andreeabarda/.gradle/caches/transforms-3/a78e5dc4c13bc533c4a5c28b66d806c8/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/andreeabarda/.gradle/caches/transforms-3/a78e5dc4c13bc533c4a5c28b66d806c8/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/6569a7e0b628b18439c8e3db7f98f4fe/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/6569a7e0b628b18439c8e3db7f98f4fe/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/e344a380465f063d60b751323d3569b4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/e344a380465f063d60b751323d3569b4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/4bb6c1a523de75f22056d295d0eafe5a/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/4bb6c1a523de75f22056d295d0eafe5a/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/4b838c5c6d7b806adbc33324855961a5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/4b838c5c6d7b806adbc33324855961a5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/andreeabarda/.gradle/caches/transforms-3/13e698cd57bf8da03a836668361529a5/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/andreeabarda/.gradle/caches/transforms-3/13e698cd57bf8da03a836668361529a5/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/andreeabarda/.gradle/caches/transforms-3/86c0c5e844bcce17688ca821466d0d47/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/andreeabarda/.gradle/caches/transforms-3/86c0c5e844bcce17688ca821466d0d47/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/dee6dbe3c2cee513544eed918fdebf6d/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/dee6dbe3c2cee513544eed918fdebf6d/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/77edcf24a22ec870864e8d3f4c68fd8c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/77edcf24a22ec870864e8d3f4c68fd8c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/e4a6009bde25d1e7f1e017b4f83a1c70/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/e4a6009bde25d1e7f1e017b4f83a1c70/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/1d148d3a6784fa5a7be38b0c5165fb26/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/1d148d3a6784fa5a7be38b0c5165fb26/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/3cc978705fda3550b87be5231ae3a049/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/andreeabarda/.gradle/caches/transforms-3/3cc978705fda3550b87be5231ae3a049/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/andreeabarda/.gradle/caches/transforms-3/db9daf9acbb1060db2538fc2cfb6a86e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/andreeabarda/.gradle/caches/transforms-3/db9daf9acbb1060db2538fc2cfb6a86e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/andreeabarda/.gradle/caches/transforms-3/6d151d4be8f5d78d23acd2864d2034b6/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/andreeabarda/.gradle/caches/transforms-3/6d151d4be8f5d78d23acd2864d2034b6/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/andreeabarda/.gradle/caches/transforms-3/60dd8bbb66b6b5afb91bd395238d2ee7/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/andreeabarda/.gradle/caches/transforms-3/60dd8bbb66b6b5afb91bd395238d2ee7/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/android/app/src/debug/AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/andreeabarda/development/flutter_projects/rick_morty_vendora_done/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/e77ccadf38a9c2325e7c7b3575070a2b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/e77ccadf38a9c2325e7c7b3575070a2b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/e77ccadf38a9c2325e7c7b3575070a2b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/e77ccadf38a9c2325e7c7b3575070a2b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/e77ccadf38a9c2325e7c7b3575070a2b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/andreeabarda/.gradle/caches/transforms-3/e77ccadf38a9c2325e7c7b3575070a2b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
